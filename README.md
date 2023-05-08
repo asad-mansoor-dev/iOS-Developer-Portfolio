@@ -24,6 +24,7 @@ I developed this app completely. This app was a Saudi Arabian client’s project
 -  Cocoapods (ADCountryPicker, Firebase, SkeletonView etc.)
 
 ## Karwan e Najia - Organisational App (Completely Developed by Me!)
+[`📲 Available on the App Store`](https://apps.apple.com/no/app/karwan-e-najia/id1632663020)
 I developed this app completely as well as worked on Backend server via cPanel. I asked Dailymotion support to create URL Scheme, because they had not already created this feature, So now, I can open Organisation’’s Dailymotion account on their app from my app. This app is for a non-profit organisation that spreads useful content in form of books, videos, news and quote pictures. I implemented Google page like search in books manually without using any library. Reduced size of app by putting books in text file and dealt with design and rendering manually. Embedded twitter timeline in Web View because, twitter SDK is deprecated in iOS latest versions. Managed User profile using firebase. Developed Qibla direction utility, Books reading, bookmarking, sharing topic wise, long text scrolling, highlighting searches text from all books. Playing videos, multiple downloading with pause/resume and network failure handling. Showing Dynamic sized ratio images as received from backend, rendering html news and handling hyperlink. Wrote APIs and placed them on server via cPanel
 
 <p align="center">

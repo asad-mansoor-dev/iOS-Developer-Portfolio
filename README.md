@@ -7,10 +7,9 @@
 I developed this app completely. This app was a Saudi Arabian client’s project whose one app was already running, they changed UI/UX of this new app. The idea was to send gifts to your loved ones by staying at your home. Gifts involve cents, bags, cake, watches, hats etc for the events like. birthday, marriage or other small events. One can send in different countries and can pay in small instalments using Tamara Payment Methods. We provided support in two languages English and Arabic at runtime from within the app.
 
 <p align="center">
- <p align="vertical">
-<img src="https://user-images.githubusercontent.com/76922883/224447663-1946a1d5-0e7d-45bb-ba4f-48eb68924337.PNG" width="200"/>
-  <"Animations">
-  </p>
+ 
+<img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/d7fe458e-d6bf-47e2-b145-eac2b38b1586" width="200"/>
+  
 <img src="https://user-images.githubusercontent.com/76922883/224447492-c8163fc6-7d5d-416c-913c-f9d9e0295392.PNG" width="200"/>
 <img src="https://user-images.githubusercontent.com/76922883/224447581-6896ca04-6ffe-4a87-8c9e-a45809ad1798.PNG" width="200"/>
 </p>

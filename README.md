@@ -10,9 +10,10 @@ I developed this app completely. This app was a Saudi Arabian client’s project
  <div class = "title">
  <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/30524bf4-95ac-4036-80d2-7094c855b5cf" width="200"/>
   <p> Animations </p>
-  </div>
- <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/3776bafe-fb50-4e81-a81a-c466673487b3" width="200"/>
+   <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/3776bafe-fb50-4e81-a81a-c466673487b3" width="200"/>
  <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/a44ad1e2-61e0-43ae-b7f5-d8464122093c" width="200"/>
+  </div>
+
 </p>
 
 **Tech Used**

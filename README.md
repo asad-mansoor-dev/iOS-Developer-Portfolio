@@ -29,9 +29,10 @@ I developed this app completely. This app was a Saudi Arabian client’s project
 I developed this app completely as well as wrote some APIs. I asked Dailymotion support to create URL Scheme, because they had not already created this feature, So now, I can open Organisation’’s Dailymotion account on their app from my app. This app is for a non-profit organisation that spreads useful content in form of books, videos, news and quote pictures. I implemented Google page like search in books manually without using any library. Reduced size of app by putting books in text file and dealt with design and rendering manually. Embedded twitter timeline in Web View because, twitter SDK is deprecated in iOS latest versions. Managed User profile using firebase. Developed Qibla direction utility, Books reading, bookmarking, sharing topic wise, long text scrolling, highlighting searches text from all books. Playing videos, multiple downloading with pause/resume and network failure handling. Showing Dynamic sized ratio images as received from backend, rendering html news and handling hyperlink. Wrote APIs and placed them on server via cPanel
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76922883/205193319-5f8c7225-9f77-4baa-89e0-2ceab8b6be13.png" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/205193358-5708bcd4-84ff-4f94-b48d-5f7ed55456de.png" width="200"/>
- </p>
+ <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/30524bf4-95ac-4036-80d2-7094c855b5cf" width="200"/>
+ <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/3776bafe-fb50-4e81-a81a-c466673487b3" width="200"/>
+ <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/a44ad1e2-61e0-43ae-b7f5-d8464122093c" width="200"/>
+</p>
 
 **Tech Used**
 -  Core Text

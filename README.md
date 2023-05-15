@@ -54,6 +54,7 @@ I developed this app completely as well as wrote some APIs. I asked Dailymotion 
 
 ## Smart TV Casting, Mirroring & Remote Apps (FireTV, LGTV)
 [`📲 Available on the App Store`](https://apps.apple.com/il/developer/mind-cubes-apps/)
+
 I worked on some parts of app under a senior developer. This app was a product of a company. One can cast media files from iPhone/iPad to smart tvs, screen mirroring and Remote Apps for FireTV.
 
 ### My Role:
@@ -73,6 +74,7 @@ I Integrated FireTV Library (ADB) in the app, integrated FireTV Remote, worked o
 
 ## Music Player
 [`📲 Available on the App Store`](https://apps.apple.com/il/app/music-x-music-player-xtreme/id1575902185)
+
 I worked on some parts of app under a senior developer. This app was a product of a company. One can search music on Youtube remaining within App, can download music from Youtube, can manage it's own music library. One can add music using specific IP address from browser & through USB cable.
 
 ### My Role:
@@ -93,6 +95,7 @@ I implemented multiple downloading feature with start and cancel download and ha
 
 ## SigningHub - Digitally Signing & Verifying Documents App
 [`📲 Available on the App Store`](https://apps.apple.com/pk/app/signinghub-document-signing/id530067405)
+
 I worked on some parts of app under a senior developer. This app was a product of a company. Also it have SDk for B2B organizations. One can manage all paper work for contracts and vaerification through this App.
 
 ### My Role:

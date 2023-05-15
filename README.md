@@ -6,7 +6,7 @@
 ## EasyGifts  E-Commerce App (Completely Developed by Me!)
 I developed this app completely. This app was a Saudi Arabian client’s project whose one app was already running, they changed UI/UX of this new app. The idea was to send gifts to your loved ones by staying at your home. Gifts involve cents, bags, cake, watches, hats etc for the events like. birthday, marriage or other small events. One can send in different countries and can pay in small instalments using Tamara Payment Methods. We provided support in two languages English and Arabic at runtime from within the app.
 
-Note: I have developed clone app for same company, but Screenshots are of original App.
+Note: I have developed clone app for same company, but below Screenshots are of original App.
 
 <p align="center">
  <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/3b6c9c0b-66dd-4ab4-8140-ea08c5b788df" width="200"/>

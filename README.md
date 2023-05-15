@@ -51,3 +51,61 @@ I developed this app completely as well as wrote some APIs. I asked Dailymotion 
 -  Firebase Firestore/ Firebase Storage
 -  REST APIs Integration.
 -  Cocoapods
+
+## Smart TV Casting, Mirroring & Remote Apps (FireTV, LGTV)
+I worked on some parts of app under a senior developer. This app was a product of a company. One can cast media files from iPhone/iPad to smart tvs, screen mirroring and Remote Apps for FireTV.
+
+# My Role:
+I Integrated FireTV Library (ADB) in the app, integrated FireTV Remote, worked on LGTV casting and mirroring fixes, fixed iptv casting, and designed the whole UI.
+
+<p align="center">
+ <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/9850b807-bc0f-4c16-9d06-57dfe15be4ab" width="200"/>
+ <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/66318cae-34e1-457a-8d83-4dfa2ca88c66" width="200"/>
+ <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/9d95f842-fb06-4006-9ac2-27260079a54b" width="200"/>
+ <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/baba8f9f-f469-4de4-bbad-71368d221e2d" width="200"/>
+</p>
+
+**Tech Used**
+-  Third Party SDK ADB
+-  Core Animations
+-  Core Data
+
+
+## Music Player
+I worked on some parts of app under a senior developer. This app was a product of a company. One can search music on Youtube remaining within App, can download music from Youtube, can manage it's own music library. One can add music using specific IP address from browser & through USB cable.
+
+# My Role:
+I implemented multiple downloading feature with start and cancel download feature with cutomized UI. I designed complex UI. Made app bug free.
+
+<p align="center">
+ <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/914253fb-1d52-4d94-aff6-beaed1ec99af" width="200"/>
+ <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/dead0848-cb8d-4218-92db-6b5f018fdc39" width="200"/>
+ <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/7fe379d4-b2f0-408c-aee7-6444a7bcf2eb" width="200"/>
+</p>
+
+**Tech Used**
+-  NSOperation Queues
+-  Core Data
+-  UIKit
+-  AVFoundation
+-  Cocoapods
+
+## SigningHub - Digitally Signing & Verifying Documents App
+I worked on some parts of app under a senior developer. This app was a product of a company. Also it have SDk for B2B organizations. One can manage all paper work for contracts and vaerification through this App.
+
+# My Role:
+I improved its performance by reducing the clutter of API calls, configured functionality to get supported files from FileManager, managed its API documentation, and configure various RESTful APIs.
+
+<p align="center">
+ <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/f019bfbe-9080-47a7-9e3b-ee82e1617782" width="200"/>
+ <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/d339a520-1f91-48a0-a1c8-335ac0f5fbd1" width="200"/>
+ <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/6e905cde-1cbb-488f-ae38-6834dfff2727" width="200"/>
+</p>
+
+**Tech Used**
+-  DocumentPickerController
+-  Alamofire
+-  UIKit, Xibs
+-  RESTful APIs
+-  SDK Documentation 
+-  Cocoapods

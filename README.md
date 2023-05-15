@@ -74,7 +74,7 @@ I Integrated FireTV Library (ADB) in the app, integrated FireTV Remote, worked o
 I worked on some parts of app under a senior developer. This app was a product of a company. One can search music on Youtube remaining within App, can download music from Youtube, can manage it's own music library. One can add music using specific IP address from browser & through USB cable.
 
 ### My Role:
-I implemented multiple downloading feature with start and cancel download feature with cutomized UI. I designed complex UI. Made app bug free.
+I implemented multiple downloading feature with start and cancel download and handle internet diconnectivity and connectivity error feature with cutomized UI. I designed complex UI. Made app bug free.
 
 <p align="center">
  <img src="https://github.com/asad-mansoor-dev/iOS-Developer-Portfolio/assets/44204745/914253fb-1d52-4d94-aff6-beaed1ec99af" width="200"/>
